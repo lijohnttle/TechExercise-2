@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TechExercise.Core.Analyzing.Expressions
+namespace TechExercise.Core.Analysis.Expressions
 {
     public class VariableExpression : Expression
     {

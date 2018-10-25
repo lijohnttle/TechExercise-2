@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace TechExercise.Core.Analyzing
+namespace TechExercise.Core.Analysis
 {
     public abstract class Expression
     {

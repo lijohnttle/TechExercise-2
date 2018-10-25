@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using TechExercise.Core.Analyzing;
-using TechExercise.Core.Analyzing.Expressions;
+using TechExercise.Core.Analysis;
+using TechExercise.Core.Analysis.Expressions;
 using TechExercise.Core.Tokenization;
 using Xunit;
 

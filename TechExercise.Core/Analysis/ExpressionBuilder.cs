@@ -1,8 +1,8 @@
-﻿using TechExercise.Core.Analyzing.Expressions;
-using TechExercise.Core.Analyzing.Expressions.Helpers;
+﻿using TechExercise.Core.Analysis.Expressions;
+using TechExercise.Core.Analysis.Expressions.Helpers;
 using TechExercise.Core.Tokenization;
 
-namespace TechExercise.Core.Analyzing
+namespace TechExercise.Core.Analysis
 {
     public class ExpressionBuilder
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using TechExercise.Core.Tokenization;
 
-namespace TechExercise.Core.Analyzing.Expressions.Helpers
+namespace TechExercise.Core.Analysis.Expressions.Helpers
 {
     public static class ExpressionHelper
     {

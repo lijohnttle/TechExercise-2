@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using TechExercise.Core.Analyzing;
-using TechExercise.Core.Analyzing.Expressions.Helpers;
+using TechExercise.Core.Analysis;
+using TechExercise.Core.Analysis.Expressions.Helpers;
 using TechExercise.Core.Tokenization;
 
 namespace TechExercise.Core
