@@ -4,7 +4,7 @@ Given a mathematical expression, e.g. ((a+b)*(b^c+(d-e)/a))^(c+d/e). The number 
 
 ## Projects
 
-#### TechExercise.Domain
+#### TechExercise.Core
 .NET Core library with a calculator class - **Calculator**.
 
 #### TechExercise.Tests
